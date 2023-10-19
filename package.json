@@ -184,7 +184,7 @@
     "zone.js": "0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.12.4",
+    "@angular-devkit/build-angular": "16.2.7",
     "@angular/cli": "7.1.4",
     "@biesbjerg/ngx-translate-extract": "2.3.4",
     "@ionic-native-mocks/android-fingerprint-auth": "2.0.12",
@@ -204,7 +204,7 @@
     "core-js": "2.6.10",
     "electron": "9.3.5",
     "fs-extra": "9.0.1",
-    "ionic": "4.10.4",
+    "ionic": "5.4.16",
     "ionic-mocks": "1.2.1",
     "jasmine-core": "2.99.1",
     "jasmine-reporters": "2.3.0",
